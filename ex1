@@ -1,4 +1,4 @@
-#include<stdio>
+#include<stdio.h>
 
 int main(){
 
@@ -17,7 +17,7 @@ int main(){
     mat[2][2] = 9;
 
     printf("\n digite o numero de 1 a 9, um de cada vez\n");
-    scanf("%d", &mat[3][3]) ;
+    scanf("%d",mat[3][3]) ;
 
     printf("imprima a primeira linha:\n");
     printf("%d %d %d \n" , mat[0][0], mat[0][1], mat[0][2]);
@@ -29,4 +29,6 @@ int main(){
     printf("imprima a terceira  linha:\n");
     printf("%d %d %d \n" , mat[2][0], mat[2][1], mat[2][2]);
 
+
+     return 0;
 }
