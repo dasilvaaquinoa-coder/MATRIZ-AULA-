@@ -1,5 +1,6 @@
 # MATRIZ-AULA-
 AULA 04/11/26
+
 EX 01 — Preencher e exibir uma matriz 3x3
 Enunciado detalhado: Crie um programa que declare uma matriz de inteiros 3x3. Peça
 ao usuário para digitar os 9 valores, um por vez, informando sempre a posição (ex:
