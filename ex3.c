@@ -28,12 +28,11 @@ int mat[3][4];
          printf(\n"qual o numero maior do[%d] [%d]?"\n);
         for (i=0; i<menor; i++);{
 
-            printf(\n"qual o numero menor do [%d] [%d]?\n);
+            printf(\n"qual o numero menor do [%d] [%d]?"\n);
 
         }
-       
-            
-    }
+            }
+} 
        
      
 
